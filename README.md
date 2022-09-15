@@ -1,9 +1,12 @@
 ![w8ZJLtJbmuph](https://user-images.githubusercontent.com/113353780/190424345-1e27063a-f746-46c6-864f-06f991ebcc4b.gif)
 
 
-### Hello, world!!! I'm João Vitor Sarti and i'm studying Front-end!!! 💻👨‍💻
+# Hello, world!!! I'm João Vitor Sarti and i'm studying Front-end!!! ![catgifcutted](https://user-images.githubusercontent.com/113353780/190435899-0a960742-db85-43af-bf14-e278992aacda.gif)
 
-Actually i'm studying in Fatec Jaú, Brasil. I've get interested in the area because of the great world of opportunities he is bringing in our midst. besides, I ended up getting very interested in the area and I'm looking for my first job 🧑‍💻❤️
+
+Actually i'm studying in Fatec Jaú, Brasil. I've get interested in the area because of the great world of opportunities he is bringing in our midst. besides, I ended up getting very interested in the area and I'm looking for my first job!
+
+## About me: ![ezgif-1-06aec29993](https://user-images.githubusercontent.com/113353780/190427312-31a626d3-e839-4e52-8cd6-3fc3eb8c22aa.gif)
 
 - ⚙️ I’m currently working on with Front-end
 - 📖 I’m currently learning HTML, CSS, JS
